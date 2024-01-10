@@ -1,0 +1,11 @@
+[
+    {
+        "req": "Hi",
+        "res1": "Hello"
+    },
+    {
+        "req": "How are You",
+        "res1": "Am Fine",
+        "res2": "What about You..??"   
+    }
+]
